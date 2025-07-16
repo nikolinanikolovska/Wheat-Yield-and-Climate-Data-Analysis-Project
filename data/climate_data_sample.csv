@@ -1,0 +1,16 @@
+Country,Year,Temperature_C,Precipitation_mm
+France,2020,12.3,720
+France,2021,12.5,680
+France,2022,12.7,750
+Germany,2020,10.4,800
+Germany,2021,10.6,790
+Germany,2022,10.8,820
+Italy,2020,15.1,610
+Italy,2021,15.3,590
+Italy,2022,15.0,630
+Poland,2020,9.8,700
+Poland,2021,10.0,680
+Poland,2022,10.2,710
+Spain,2020,16.5,520
+Spain,2021,16.3,500
+Spain,2022,16.0,460
